@@ -1,0 +1,5 @@
+openai>=3.52,<4
+pinecone>=10.3,<11
+python-dotenv>=1.2,<2
+langchain-core>=1.8,<2
+langchain-openai>=1.6,<2
